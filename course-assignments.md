@@ -134,3 +134,66 @@ coursepage: true
   + A general overview of how your ethical framework would enforce or reinforce corporate social responsibility. (5 Points)
   + A brief example of an instance where the proposed overview would correct unethical behavior. (5 Points)
 + The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
+
+## Website Post 4 (60 Points) <a name="website-post-4">
+### Purpose:
++ Identify the underlying issues and stakeholders in a case of corporate malfeasance.
++ Analyze the ethical argumentation for a potential case of corporate malfeasance.
++ Compare your argumentation to two other ethical frameworks.
+
+### Instructions:
++ Use the fork of the course GitHub repository you set up in [Website Post 1](course-assignments#website-post-1) to commit your Git changes.
+  + Make a pull request to the original repository by the due date.
++ Write a case brief on the relationship between IBM and Nazi Germany.
++ Write an ethical analysis on the implementation of a Muslim registry using your ethical framework as a guide.
++ Write two comparison interviews between your framework and the two you believe are most divergent from yours.
+  + For this one, you will need to interview someone from two different ethical framework groups.
+
+### Due Date:
++ Your pull request to the original GitHub repository is due when class starts (15:30) on 02/14/2019.
+
+### Requirements:
++ Your case brief (~500 Words) must include:
+  + A summary of relevant facts which could be used to determine the culpability of IBM. (5 Points)
+  + A listing of the stakeholders in this controversy (as it stands today) and their positions. (5 Points)
+  + A statement on the ethical culpability of IBM with respect to your ethical framework. (5 Points)
++ Your analysis of the Muslim registry controversy (~1,000 words) must include:
+  + A summary of relevant facts regarding the current state of the controversy. (5 Points)
+  + An argument for or against the implementation of a Muslim registry by a private corporation, citing *at least* three specific pieces of evidence to make your point. (10 Points)
+  + A summary of whether or not your analysis would change (and why) if the registry was implemented by a government entity instead of a corporation. (5 Points)
++ Each of your two interviews with another framework (~500 Words) must include:
+  + A statement on how and why you believe your argumentation for or against a Muslim registry diverges from the arguments you anticipate from the interviewed framework. (5 Points)
+  + A summary of the statements made by the framework interviewed. State whether your initial thoughts were accurate or not (and why). (5 Points)
++ The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
+
+## Website Post 5 (60 Points) <a name="website-post-5">
+### Purpose:
++ Identify the key stakeholders in the issue of network neutrality.
++ Analyze the ethical argumentation for or against deplatforming individuals or organizations from the Internet.
++ Propose a potential outcome of deplatforming upon online echo chambers.
+
+### Instructions:
++ Use the fork of the course GitHub repository you set up in [Website Post 1](course-assignments#website-post-1) to commit your Git changes.
+  + Make a pull request to the original repository by the due date.
++ Write a summary of key stakeholders and their positions in the issue of network neutrality.
++ Write a critical anylsis of deplatforming using your ethical framework as a guide.
++ Write a brief proposition of the potential effects deplatforming could have upon online echo chambers.
+
+### Due Date:
++ Your pull request to the original GitHub repository is due when class starts (15:30) on 02/21/2019.
+
+### Requirements:
++ Your summary (~500 Words) must include:
+  + A listing of each key group of stakeholders in the issue of net neutrality. (5 Points)
+  + A summary of their core beliefs and position on the issue. (5 Points)
++ Your analysis of deplatforming (~1,000 Words) must include:
+  + A summary of the opposition to deplatforming. (5 Points)
+  + A summary of the proponents of deplatforming. (5 Points)
+  + An analysis either in favor or against deplatforming, citing specific elements of your ethical framework to make your point. (10 Points)
++ Your proposition (~700 Words) must inclue:
+  + A summary of facts about online echo chambers. (5 Points)
+  + A summary of recent deplatforming attempts and their outcomes. (5 Points)
+  + An argument whether deplatforming could affect online echo chambers. (10 Points)
+    + If so, argue how. If not, argue why not. (5 Points)
++ The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
+
