@@ -89,3 +89,6 @@ coursepage: true
 + [Technology Isn't Working](https://www.economist.com/special-report/2014/10/04/technology-isnt-working "Technology Isn't Working")
 
 ### Self-Driving Cars
++ [The Menace and the Promise of Autonomous Vehicles](https://longreads.com/2018/06/12/the-menace-and-the-promise-of-autonomous-vehicles/ "The Menace and the Promise of Autonomous Vehicles")
++ [Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html "Self-Driving Uber Car Kills Pedestrian in Arizona")
++ [Full Tilt: When 100% of Cars Are Autonomous](https://www.nytimes.com/interactive/2017/11/08/magazine/tech-design-autonomous-future-cars-100-percent-augmented-reality-policing.html?mtrref=undefined&mtrref=www.nytimes.com "Full Tilt: When 100% of Cars Are Autonomous")
