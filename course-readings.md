@@ -80,3 +80,12 @@ coursepage: true
 + [Why We Terminated Daily Stormer](https://blog.cloudflare.com/why-we-terminated-daily-stormer/ "Why We Terminated Daily Stormer")
 + [Deplatforming Conservatives From Social Media](https://www.infowars.com/deplatforming-conservatives-from-social-media/ "Deplatforming Conservatives From Social Media")
 + [Good Riddance, Alex Jones: The Year in Deplatforming](https://mashable.com/article/deplatforming-alex-jones-2018/#GXa.3ZGauqqV "Good Riddance, Alex Jones: The Year in Deplatforming")
+
+## Automation
+### Job Automation
++ [What is McDonaldization?](https://www.mcdonaldization.com/whatisit.shtml "What is McDonaldization?")
++ [A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/ "A World Without Work")
++ [Foxconn Replaces 60,000 Workers with Robots](https://www.bbc.com/news/technology-36376966 "Foxcon Replaces 60,000 Workers with Robots")
++ [Technology Isn't Working](https://www.economist.com/special-report/2014/10/04/technology-isnt-working "Technology Isn't Working")
+
+### Self-Driving Cars
