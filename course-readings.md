@@ -64,3 +64,31 @@ coursepage: true
 + [Tech Workers Pledge to Never Help Trump Build Muslim Registry](https://money.cnn.com/2016/12/13/technology/never-again-data-collection-trump/index.html "Tech Workers Pledge to Never Help Trump Build Muslim Registry")
 + [America Already Had a Muslim Registry](https://www.theatlantic.com/technology/archive/2016/12/america-already-had-a-muslim-registry/511214/ "America Already Had a Muslim Registry")
 + [The Lesson America Never Learned from the Internment Camp Precedent](https://libertyconservative.com/lesson-america-never-learned-internment-camp-precedent/ "The Lesson America Never Learned from the Internment Camp Precedent")
+
+## Fight for the Net <a name="fight-for-the-net">
+### Net Neutrality
++ [A Guide to the Open Internet](http://www.theopeninter.net/ "A Guide to the Open Internet")
++ [Big Tech to Join Legal Fight Against Net Neutrality Repeal](https://www.nytimes.com/2018/01/05/technology/net-neutrality-lawsuit.html "Big Tech to Join Legal Fight Against Net Neutrality Repeal")
++ [Am I The Only Techie Against Net Neutrality?](https://www.forbes.com/sites/joshsteimle/2014/05/14/am-i-the-only-techie-against-net-neutrality/#424c22ac70d5 "Am I The Only Techie Against Net Neutrality?")
+
+### Echo Chambers
++ [Who Gets Caught in Online Echo Chambers?](https://sloanreview.mit.edu/article/who-gets-caught-in-online-echo-chambers/ "Who Gets Caught in Online Echo Chambers?")
++ [The Reason Your Feed Became An Echo Chamber — And What To Do About It](https://www.npr.org/sections/alltechconsidered/2016/07/24/486941582/the-reason-your-feed-became-an-echo-chamber-and-what-to-do-about-it "The Reason Your Feed Became An Echo Chamber — And What To Do About It")
+
+### Online Censorship
++ [How Facebook Checks Facts and Polices Hate Speech](https://www.wired.com/story/how-facebook-checks-facts-and-polices-hate-speech/ "How Facebook Checks Facts and Polices Hate Speech")
++ [Why We Terminated Daily Stormer](https://blog.cloudflare.com/why-we-terminated-daily-stormer/ "Why We Terminated Daily Stormer")
++ [Deplatforming Conservatives From Social Media](https://www.infowars.com/deplatforming-conservatives-from-social-media/ "Deplatforming Conservatives From Social Media")
++ [Good Riddance, Alex Jones: The Year in Deplatforming](https://mashable.com/article/deplatforming-alex-jones-2018/#GXa.3ZGauqqV "Good Riddance, Alex Jones: The Year in Deplatforming")
+
+## Automation
+### Job Automation
++ [What is McDonaldization?](https://www.mcdonaldization.com/whatisit.shtml "What is McDonaldization?")
++ [A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/ "A World Without Work")
++ [Foxconn Replaces 60,000 Workers with Robots](https://www.bbc.com/news/technology-36376966 "Foxcon Replaces 60,000 Workers with Robots")
++ [Technology Isn't Working](https://www.economist.com/special-report/2014/10/04/technology-isnt-working "Technology Isn't Working")
+
+### Self-Driving Cars
++ [The Menace and the Promise of Autonomous Vehicles](https://longreads.com/2018/06/12/the-menace-and-the-promise-of-autonomous-vehicles/ "The Menace and the Promise of Autonomous Vehicles")
++ [Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html "Self-Driving Uber Car Kills Pedestrian in Arizona")
++ [Full Tilt: When 100% of Cars Are Autonomous](https://www.nytimes.com/interactive/2017/11/08/magazine/tech-design-autonomous-future-cars-100-percent-augmented-reality-policing.html?mtrref=undefined&mtrref=www.nytimes.com "Full Tilt: When 100% of Cars Are Autonomous")
