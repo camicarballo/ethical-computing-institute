@@ -197,3 +197,35 @@ coursepage: true
     + If so, argue how. If not, argue why not. (5 Points)
 + The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
 
+## Website Post 6 (60 Points) <a name="website-post-6">
+### Purpose:
++ Identify key issues in job automation.
++ Analyze the ethical argumentation for or against job automation.
++ Analyze the ethical argumentation for or against self-driving cars.
+
+### Instructions:
++ Use the fork of the course GitHub repository you set up in [Website Post 1](course-assignments#website-post-1) to commit your Git changes.
+  + Make a pull request to the original repository by the due date.
++ Write a summary of key issues and the potential stakeholders in job automation.
++ Write a critical anylsis of job automation using your ethical framework as a guide.
++ Write a critical anylsis of self-driving cars using your ethical framework as a guide.
+
+### Due Date:
++ Your pull request to the original GitHub repository is due when class starts (15:30) on 02/28/2019.
+
+### Requirements:
++ Your summary (~500 Words) must include:
+  + A listing of *at least* three key groups of stakeholders in the issue of job automation. (5 Points)
+  + A summary of the effects of job automation on each of these stakeholders. (5 Points)
+  + A brief statement on the culpability of engineers in designing job automation system when human workers lose their jobs. (5 Points)
+    + Use your ethical framework as a guide.
++ Your analysis of job automation (~1,000 Words) must include:
+  + A summary of the opposition to job automation. (5 Points)
+  + A summary of the proponents of job automation. (5 Points)
+  + An analysis either in favor or against job automation, citing specific elements of your ethical framework to make your point. (10 Points)
++ Your analysis of self-driving cars (~1,000 Words) must include:
+  + A summary of the opposition to self-driving cars. (5 Points)
+  + A summary of the proponents of self-driving cars. (5 Points)
+  + An analysis either in favor or against self-driving cars, citing specific elements of your ethical framework to make your point. (10 Points)
++ The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
+
