@@ -81,6 +81,11 @@ coursepage: true
 + [Deplatforming Conservatives From Social Media](https://www.infowars.com/deplatforming-conservatives-from-social-media/ "Deplatforming Conservatives From Social Media")
 + [Good Riddance, Alex Jones: The Year in Deplatforming](https://mashable.com/article/deplatforming-alex-jones-2018/#GXa.3ZGauqqV "Good Riddance, Alex Jones: The Year in Deplatforming")
 
+### Supplementary Readings on the Internet as a Public Utility
++ [Is Broadband Internet a Public Utility?](https://www.theatlantic.com/technology/archive/2014/05/is-broadband-internet-a-public-utility/362093/ "Is Broadband Internet a Public Utility?")
++ [Why American Internet Should Be a Public Utility](https://psmag.com/news/why-american-internet-should-be-a-public-utility "Why American Internet Should Be a Public Utility")
++ [Do Not Make the Internet a Public Utility](https://www.nytimes.com/roomfordebate/2015/02/04/regulate-internet-providers/dont-make-the-internet-a-public-utility "Do Not Make the Internet a Public Utility")
+
 ## Automation
 ### Job Automation
 + [What is McDonaldization?](https://www.mcdonaldization.com/whatisit.shtml "What is McDonaldization?")
