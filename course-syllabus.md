@@ -31,7 +31,7 @@ __Readings and Online Materials:__ Required readings are all available free of c
 
 #### Assignments and Course Requirements:
 
-__Website Posts__ (12 blog-style posts in a GitHub Pages website) – 60%
+__Writings__ (7 blog-style posts in a GitHub Pages website, 6 one-page personal responses) – 60%
 
 __Participation__ (1 in-class presentation, 12 in-class policy proposals) – 30%
 
@@ -49,7 +49,7 @@ __Course Storyboard:__  Throughout this course, we will act as a fictional profe
 
 Each Thursday, we will hold a mock executive board meeting in which a scenario and related question will be posed to the class. Each ethical framework interest group will have time to discuss among themselves and present their response to the question as well as a final policy proposal regarding the scenario choosing from one of these three actions: censure an actor in the scenario (someone made the wrong choice), commend an actor in the scenario (someone made the right choice), or present a proposal to change the code of ethics of our organization in response to the scenario (our frame of reference is wrong).
 
-You may not agree with the viewpoint of the interest group you are assigned at the beginning of the semester, and that is okay. Do it justice. On the ninth week of the semester (during Spring Break), we will have a “midterm shuffle” in which you will move to a group you agree with or one you disagree with but find interesting. Either way, you will be representing a different ethical framework for the second half of the semester. One of the goals of this course is to effectively voice the perspectives and concerns of multiple points of view. By the end of this course, you will become an expert in applying *two* different ethical frameworks to ethical and professional issues in computer technology.
+You may not agree with the viewpoint of the interest group you are assigned at the beginning of the semester, and that is okay. Do it justice. On the ninth week of the semester (during Spring Break), we will have a “midterm shuffle” in which you will move to a group you agree with or one you disagree with but find interesting. Either way, you will be representing a different ethical framework for the second half of the semester. One of the goals of this course is to effectively voice the perspectives and concerns of multiple points of view. We will do this shuffle twice more after the Spring Break. By the end of this course, you will become an expert in applying *four* different ethical frameworks to ethical and professional issues in computer technology.
 
 __Schedule Changes:__ Any changes made to the course schedule will be noted on the course website at least one week in advance. An email will be sent to the class when schedule changes are made.
 

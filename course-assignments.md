@@ -241,17 +241,22 @@ coursepage: true
 + Write a brief summary of the position of your ethical framework on computer-assisted warfare *and* from two of the following:
   + The importance of professional codes of ethics.
   + Diversity in the technology sector.
+  + Immigration issues in the technology sector.
   + Corporate personhood.
   + Discriminatory registries.
   + Online censorship.
+  + Net neutrality.
   + Job automation.
+  + Autonomous vehicles.
 + Write an algorithm which demonstrates from start to finish how to analyze an ethical decision.
++ Post both of these on the *main page* of your ethical framework
+  + If you have only been using a single page for your posts, place this one at the *top*.
 
 ### Due Date:
 + Your pull request to the original GitHub repository is due when class starts (15:30) on 03/07/2019.
 
 ### Requirements:
-+ Each of your summaries (1 Paragraph Each) must include:
++ Each of your summaries (1 Paragraph Each) must:
   + State the problem being discussed, and why it is important to your framework. (1 Point)
   + State the position of your ethical framework in response to this problem. (2 Points)
   + Provide *at least* two pieces of evidence supporting your position. (2 Points)
@@ -261,3 +266,22 @@ coursepage: true
 + The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
 
 ## Personal Response 1 (30 Points) <a name="personal-response-1">
+### Purpose:
++ Reflect upon the ethical framework you have represented and how it has informed your own personal ethics.
+
+### Instructions:
++ Write a single page (single side of the paper) response to the following prompt:
+  + How has the ethical framework you have represented helped you explore your own personal ethics as they apply to computer technology?
++ Use a standard font in 12 point size.
++ Use single spacing.
++ Submit your response as a PDF to the proper assignment in Sakai.
+
+### Due Date:
++ Your response is due in Sakai when class starts (15:30) on 03/07/2019.
+
+### Requirements:
++ Your response to the prompt must:
+  + Identify the ethical framework you have represented. (5 Points)
+  + Provide general insight into how it has helped you explore your own personal ethics. (10 Points)
+  + Provide one *specific* example from class topics showing how the framework enabled you to explore your personal ethics. (10 Points)
++ The paper is well-formatted, readable, and without spelling or grammar mistakes (style points). (5 Points)
