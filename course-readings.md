@@ -81,6 +81,11 @@ coursepage: true
 + [Deplatforming Conservatives From Social Media](https://www.infowars.com/deplatforming-conservatives-from-social-media/ "Deplatforming Conservatives From Social Media")
 + [Good Riddance, Alex Jones: The Year in Deplatforming](https://mashable.com/article/deplatforming-alex-jones-2018/#GXa.3ZGauqqV "Good Riddance, Alex Jones: The Year in Deplatforming")
 
+### Supplementary Readings on the Internet as a Public Utility
++ [Is Broadband Internet a Public Utility?](https://www.theatlantic.com/technology/archive/2014/05/is-broadband-internet-a-public-utility/362093/ "Is Broadband Internet a Public Utility?")
++ [Why American Internet Should Be a Public Utility](https://psmag.com/news/why-american-internet-should-be-a-public-utility "Why American Internet Should Be a Public Utility")
++ [Do Not Make the Internet a Public Utility](https://www.nytimes.com/roomfordebate/2015/02/04/regulate-internet-providers/dont-make-the-internet-a-public-utility "Do Not Make the Internet a Public Utility")
+
 ## Automation
 ### Job Automation
 + [What is McDonaldization?](https://www.mcdonaldization.com/whatisit.shtml "What is McDonaldization?")
@@ -92,3 +97,8 @@ coursepage: true
 + [The Menace and the Promise of Autonomous Vehicles](https://longreads.com/2018/06/12/the-menace-and-the-promise-of-autonomous-vehicles/ "The Menace and the Promise of Autonomous Vehicles")
 + [Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html "Self-Driving Uber Car Kills Pedestrian in Arizona")
 + [Full Tilt: When 100% of Cars Are Autonomous](https://www.nytimes.com/interactive/2017/11/08/magazine/tech-design-autonomous-future-cars-100-percent-augmented-reality-policing.html?mtrref=undefined&mtrref=www.nytimes.com "Full Tilt: When 100% of Cars Are Autonomous")
+
+## Weapons Development and Warfare
++ [Ethical Robots in Warfare](https://www.cc.gatech.edu/ai/robot-lab/online-publications/arkin-rev.pdf "Ethical Robots in Warfare")
++ [War Goes Viral](https://www.theatlantic.com/magazine/archive/2016/11/war-goes-viral/501125/ "War Goes Viral")
++ [Codename: Delphi](http://www.lightspeedmagazine.com/fiction/codename-delphi/ "Codename: Delphi")

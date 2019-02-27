@@ -24,19 +24,19 @@ coursepage: true
 | 26-Feb | Job Automation | [Job Automation](course-readings#job-automation) | - |
 | 28-Feb | Fast Food Job Automation | [Job Automation](course-readings#job-automation) | [Website Post 6](course-assignments#website-post-6) |
 | 05-Mar | Weapons Development | [Weapons Development](course-readings#weapons-development) | - |
-| 07-Mar | Employee Determinism | [Weapons Development](course-readings#weapons-development) | [Website Post 7](course-assignments#website-post-7) |
+| 07-Mar | Employee Determinism | [Weapons Development](course-readings#weapons-development) | [Website Post 7](course-assignments#website-post-7) [Personal Response 1](course-assignments#personal-response-1) |
 | 12-Mar | Midterm Shuffle | - | Check Email for New Group Form |
 | 14-Mar | Midterm Shuffle | - | Check Email for New Group Form |
 | 19-Mar | Internet of Things | [Internet of Things](course-readings#internet-of-things) | - |
-| 21-Mar | Intrusive Advertising | [Internet of Things](course-readings#internet-of-things) | [Website Post 8](course-assignments#website-post-8) |
+| 21-Mar | Intrusive Advertising | [Internet of Things](course-readings#internet-of-things) | [Personal Response 2](course-assignments#personal-response-2) |
 | 26-Mar | Government Surveillance | [Government Surveillance](course-readings#government-surveillance) | - |
-| 28-Mar | Social Credit Score | [Government Surveillance](course-readings#government-surveillance) | [Website Post 9](course-assignments#website-post-9) |
+| 28-Mar | Social Credit Score | [Government Surveillance](course-readings#government-surveillance) | [Personal Response 3](course-assignments#personal-response-3) |
 | 02-Apr | Mission Critical Systems | [Mission Critical Systems](course-readings#mission-critical-systems) | - |
-| 04-Apr | Critical Bugs | [Mission Critical Systems](course-readings#mission-critical-systems) | [Website Post 10](course-assignments#website-post-10) |
+| 04-Apr | Critical Bugs | [Mission Critical Systems](course-readings#mission-critical-systems) | [Personal Response 4](course-assignments#personal-response-4) |
 | 09-Apr | Whistleblowing | [Whistleblowing](course-readings#whistleblowing) | - |
-| 11-Apr | Protections for Whistleblowers | [Whistleblowing](course-readings#whistleblowing) | [Website Post 11](course-assignments#website-post-11) |
+| 11-Apr | Protections for Whistleblowers | [Whistleblowing](course-readings#whistleblowing) | [Personal Response 5](course-assignments#personal-response-5) |
 | 16-Apr | Hackers and Piracy | [Hackers and Piracy](course-readings#hackers-and-piracy) | - |
-| 18-Apr | Pirate Bay | [Hackers and Piracy](course-readings#hackers-and-piracy) | [Website Post 12](course-assignments#website-post-12) |
+| 18-Apr | Pirate Bay | [Hackers and Piracy](course-readings#hackers-and-piracy) | [Personal Response 6](course-assignments#personal-response-6) |
 | 23-Apr | Course Wrap-Up | - | - |
 | 25-Apr | Course Overview | - | [Final Exam](course-assignments#final-exam) |
 | 30-Apr | No Class | - | - |
