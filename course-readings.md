@@ -97,3 +97,8 @@ coursepage: true
 + [The Menace and the Promise of Autonomous Vehicles](https://longreads.com/2018/06/12/the-menace-and-the-promise-of-autonomous-vehicles/ "The Menace and the Promise of Autonomous Vehicles")
 + [Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html "Self-Driving Uber Car Kills Pedestrian in Arizona")
 + [Full Tilt: When 100% of Cars Are Autonomous](https://www.nytimes.com/interactive/2017/11/08/magazine/tech-design-autonomous-future-cars-100-percent-augmented-reality-policing.html?mtrref=undefined&mtrref=www.nytimes.com "Full Tilt: When 100% of Cars Are Autonomous")
+
+## Weapons Development and Warfare
++ [Ethical Robots in Warfare](https://www.cc.gatech.edu/ai/robot-lab/online-publications/arkin-rev.pdf "Ethical Robots in Warfare")
++ [War Goes Viral](https://www.theatlantic.com/magazine/archive/2016/11/war-goes-viral/501125/ "War Goes Viral")
++ [Codename: Delphi](http://www.lightspeedmagazine.com/fiction/codename-delphi/ "Codename: Delphi")

@@ -229,3 +229,35 @@ coursepage: true
   + An analysis either in favor or against self-driving cars, citing specific elements of your ethical framework to make your point. (10 Points)
 + The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
 
+## Website Post 7 (30 Points) <a name="website-post-7">
+### Purpose:
++ Summarize the stances of your ethical framework on each previous topic.
++ Summarize the stance of your ethical framework on weapons development and warfare.
++ Develop an algorithm for arriving at an ethical decision in your framework.
+
+### Instructions:
++ Use the fork of the course GitHub repository you set up in [Website Post 1](course-assignments#website-post-1) to commit your Git changes.
+  + Make a pull request to the original repository by the due date.
++ Write a brief summary of the position of your ethical framework on computer-assisted warfare *and* from two of the following:
+  + The importance of professional codes of ethics.
+  + Diversity in the technology sector.
+  + Corporate personhood.
+  + Discriminatory registries.
+  + Online censorship.
+  + Job automation.
++ Write an algorithm which demonstrates from start to finish how to analyze an ethical decision.
+
+### Due Date:
++ Your pull request to the original GitHub repository is due when class starts (15:30) on 03/07/2019.
+
+### Requirements:
++ Each of your summaries (1 Paragraph Each) must include:
+  + State the problem being discussed, and why it is important to your framework. (1 Point)
+  + State the position of your ethical framework in response to this problem. (2 Points)
+  + Provide *at least* two pieces of evidence supporting your position. (2 Points)
++ Your algorithm must include:
+  + A summary of assumptions and inputs made (think of this as the arguments being passed to your algorithm). (2 Points)
+  + A step-by-step set of instructions (in a pseudocode-like style) which determines whether a decision is ethical or not according to your framework (outputs such as, "Probably ethical," or, "Probably not ethical," are also allowed). (8 Points)
++ The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
+
+## Personal Response 1 (30 Points) <a name="personal-response-1">
