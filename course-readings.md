@@ -98,7 +98,7 @@ coursepage: true
 + [Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam](https://www.nytimes.com/2018/03/19/technology/uber-driverless-fatality.html "Self-Driving Uber Car Kills Pedestrian in Arizona")
 + [Full Tilt: When 100% of Cars Are Autonomous](https://www.nytimes.com/interactive/2017/11/08/magazine/tech-design-autonomous-future-cars-100-percent-augmented-reality-policing.html?mtrref=undefined&mtrref=www.nytimes.com "Full Tilt: When 100% of Cars Are Autonomous")
 
-###Supplementary Readings on Job Automation
+### Supplementary Readings on Job Automation
 + [This Fast Food CEO Wants to Replace Workers With Robots](http://fortune.com/2016/03/17/automate-fast-food/ "This Fast Food CEO Wants to Replace Workers With Robots")
 + [New McDonald’s in Phoenix Run Entirely By Robots](https://newsexaminer.net/food/mcdonalds-to-open-restaurant-run-by-robots/ "New McDonald’s in Phoenix Run Entirely By Robots")
 + [Automation Arrives at Restaurants (But Don’t Blame Rising Minimum Wages)](https://www.computerworld.com/article/2837810/automation-arrives-at-restaurants-but-dont-blame-rising-minimum-wages.html "Automation Arrives at Restaurants (But Don’t Blame Rising Minimum Wages)")
