@@ -1,6 +1,6 @@
 ---
 layout: epicurus-postpage
-title: "Post 3: Corporate Malfeasance"
+title: "Post 4: Corporate Malfeasance"
 date: 2019-02-14 9:00:00 -0500
 image: /ethical-computing-institute/css/epicurus.png
 epicurus-postpage: true
