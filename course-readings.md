@@ -86,7 +86,7 @@ coursepage: true
 + [Why American Internet Should Be a Public Utility](https://psmag.com/news/why-american-internet-should-be-a-public-utility "Why American Internet Should Be a Public Utility")
 + [Do Not Make the Internet a Public Utility](https://www.nytimes.com/roomfordebate/2015/02/04/regulate-internet-providers/dont-make-the-internet-a-public-utility "Do Not Make the Internet a Public Utility")
 
-## Automation
+## Automation <a name="job-automation">
 ### Job Automation
 + [What is McDonaldization?](https://www.mcdonaldization.com/whatisit.shtml "What is McDonaldization?")
 + [A World Without Work](https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/ "A World Without Work")
@@ -104,7 +104,7 @@ coursepage: true
 + [Automation Arrives at Restaurants (But Don’t Blame Rising Minimum Wages)](https://www.computerworld.com/article/2837810/automation-arrives-at-restaurants-but-dont-blame-rising-minimum-wages.html "Automation Arrives at Restaurants (But Don’t Blame Rising Minimum Wages)")
 + [Fast Food Chain Automation](https://www.iot-ignite.com/fast-food-automation/ "Fast Food Chain Automation")
 
-## Weapons Development and Warfare
+## Weapons Development and Warfare <a name="weapons-development">
 + [Ethical Robots in Warfare](https://www.cc.gatech.edu/ai/robot-lab/online-publications/arkin-rev.pdf "Ethical Robots in Warfare")
 + [War Goes Viral](https://www.theatlantic.com/magazine/archive/2016/11/war-goes-viral/501125/ "War Goes Viral")
 + [Codename: Delphi](http://www.lightspeedmagazine.com/fiction/codename-delphi/ "Codename: Delphi")
